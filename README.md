@@ -14,7 +14,5 @@ Get hints like Too High or Too Low until you find the correct number! 😎
 
 🏁 Ends automatically when the correct guess is made
 
-💬 Author>>
- Anirban Chattaraj
 
 📧 Feel free to connect or suggest improvements!
